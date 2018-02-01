@@ -19,3 +19,4 @@ $ java HelloDocker
   3 : C
   File has been read."
   
+$ xxd fileToReadAndWrite for at se output i binary
